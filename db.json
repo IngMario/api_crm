@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Actualizado - 2",
+      "empresa": "Código con Juan",
+      "email": "correo@correo.com",
+      "telefono": "12332112345",
+      "notas": "Nuevos elementos",
+      "id": 1
+    },
+    {
+      "nombre": "Roberto",
+      "empresa": "Roberto Asociados",
+      "email": "robert@robert.com",
+      "telefono": "938465254142",
+      "notas": "",
+      "id": 4
+    }
+  ]
+}
